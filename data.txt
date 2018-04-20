@@ -1,0 +1,28 @@
+Mario Rossi;23;Ingegneria Meccanica;
+Luca Ghisleri;46;Medicina;
+Franco Esti;28;Scienze della comunicazione;
+Daniele	Assolini;29;Beni culturali;
+Alessandro Verzini;22;Informatica;
+Elia Lorenzin;21;Giurisprudenza;
+Manuel Boselli;21;Economia;
+Matteo Tononi;20;Ingegneria Aerospaziale;
+Davide Bianchi;24;Ingegneria Meccanica;
+Daniel Verdi;25;Psicologia;
+Mauro Villani;34;Scienze della comunicazione;
+Andrea Laffranchi;23;Beni culturali;
+Marco Piscini;54;Scienze politiche;
+Matteo Ghisleri;43;Scienze religiose;
+Francesca Migliorati;20;Economia;
+Davide Esti;21;Medicina;
+Daniel Assolini;32;Psicologia;
+Angelica Villani;23;Medicina;
+Mauro Verzini;25;Scienze della comunicazione;
+Andrea Lorenzin;20;Beni culturali;
+Marco Boselli;26;Scienze politiche;
+Franco Bianchi;27;Informatica;
+Maddalena Sarzi;23;Bioinformatica;
+Daniele	Verdi;21;Giurisprudenza;
+Alessandro Villani;20;Economia
+Elia Laffranchi;24;Ingegneria Aerospaziale
+Manuel Piscini;25;Scienze della comunicazione
+Matteo Ghisleri;34;Beni culturali
