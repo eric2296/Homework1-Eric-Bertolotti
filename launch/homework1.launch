@@ -1,0 +1,4 @@
+<launch>
+   <node pkg="homework1" type="menu" name="menu" output="screen"/>
+   <node pkg="homework1" type="listener" name="listener" output="screen" launch-prefix="xterm -e"/>
+</launch>

@@ -1,0 +1,15 @@
+Eric Bertolotti;22;Informatica;
+Linda Bertolotti;17;Giurisprudenza;
+Simona Boselli;52;Lingue straniere;
+Albino Boselli;81;Economia;
+Riello Lucia;81;Scienze politiche;
+Boselli Laura;34;Scienze Religiose;
+Boselli Stefania;35;Bioinformatica;
+Rodella Daniele;48;Metalmeccanico;
+Rodella Chiara;18;Giurisprudenza;
+Rodella Severino;78;Ingegneria Areospaziale;
+Bertolotti Sonia;34;Ingegneria Informatica;
+Bertolotti Alessandra;55;Beni culturali;
+De monte Monica;19;Scienze della comunicazione;
+De monte Claudia;30;Psicologia;
+De monte Mauro;56;Igegneria meccanica;
