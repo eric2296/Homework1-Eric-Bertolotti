@@ -8,15 +8,8 @@
 using namespace std;
 int flag=0;
 void chatterCallback(const std_msgs::String::ConstPtr& msg)
-{
-  
-  ROS_INFO("I heard: [%s]", msg->data.c_str());
+{ROS_INFO("I heard: [%s]", msg->data.c_str());}
 
-}
-
-/**
- * This homework1 demonstrates simple sending of messages over the ROS system.
- */
 int main(int argc, char **argv)
 {
   
@@ -31,14 +24,9 @@ int main(int argc, char **argv)
 
 
   int count = 0;
-  while (ros::ok())
-   {
-    
-   // 	ros::Subscriber sub = n.subscribe("chatter1", 1000, chatterCallback);
+  while (ros::ok()){
     
     	std_msgs::String msg;
-    	
-  
     	std::stringstream ss;
     	OpenFile.getline(ch,1024);   
 

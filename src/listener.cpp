@@ -63,18 +63,8 @@ bool add(homework1::menu::Request  &req,
 int main(int argc, char **argv)
 {
   ros::init(argc, argv, "listener");
-
   ros::NodeHandle n;
-  std_msgs::String msg;
- // ros::Publisher chatter1_pub = n.advertise<std_msgs::String>("chatter1", 1000); //Diciamo al master che andiamo a pubblicare msg su chatter
-
-  //msg.data = "Ciao";
- // chatter1_pub.publish(msg);
-  
-
-
   ros::Subscriber sub = n.subscribe("chatter", 1000, chatterCallback);
-
   ros::ServiceServer service = n.advertiseService("menu", add); 
   ros::spin();
 

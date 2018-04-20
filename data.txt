@@ -1,7 +1,7 @@
 Mario Rossi;23;Ingegneria Meccanica;
 Luca Ghisleri;46;Medicina;
 Franco Esti;28;Scienze della comunicazione;
-Daniele	Assolini;29;Beni culturali;
+Daniele Assolini;29;Beni culturali;
 Alessandro Verzini;22;Informatica;
 Elia Lorenzin;21;Giurisprudenza;
 Manuel Boselli;21;Economia;
