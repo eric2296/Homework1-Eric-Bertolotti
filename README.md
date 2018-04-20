@@ -14,7 +14,9 @@ La soluzione adottata si struttura in:
 # Srv:
   **menu.srv:** File che descrive il service tra Menu e Listener. E' composto da due parti request e response. La request è la scelta fatta dall'utente, mentre la response è la risposta del listener.
 # Launch:
-E' stato creato un file launch, il quale avvia il Menu e il Listener, dopodichè in base alla scelta effettuata dall'utente, il listener attiva il talker e si mette in ascolto dei dati provenienti da questo. Prima di avviare il file launch è necessario modificare correttamente il percorso del file di input **data.txt** nel **talker.cpp**.  
+E' stato creato un file launch, il quale avvia il Menu e il Listener, dopodichè in base alla scelta effettuata dall'utente, il listener attiva il talker e si mette in ascolto dei dati provenienti da questo. Prima di avviare il file launch è necessario modificare correttamente il percorso del file di input **data.txt** nel **talker.cpp**.
+Il file launch si trova nella cartella launch e per avviarlo scrivere:
+$roslaunch homework1 homework1.launch
 
 # Note:
 *I codici c++ si trovano nella cartella src*
