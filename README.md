@@ -14,4 +14,4 @@ La soluzione adottata si struttura in:
 # Srv:
   **menu.srv:** File che descrive il service tra Menu e Listener. E' composto da due parti request e response. La request è la scelta fatta dall'utente, mentre la response è la risposta del listener.
 # Launch:
-E' stato creato un file launch, il quale avvia il Menu e il Listener, dopodichè in base alla scelta effettuata il listener attiva il talker e si mette in ascolto dei dati prvenienti da questo. Prima di avviare il file launch è necessario modificare correttamente il percorso del file **data.txt** nel file **talker.cpp**.  
+E' stato creato un file launch, il quale avvia il Menu e il Listener, dopodichè in base alla scelta effettuata dall'utente, il listener attiva il talker e si mette in ascolto dei dati provenienti da questo. Prima di avviare il file launch è necessario modificare correttamente il percorso del file di input **data.txt** nel **talker.cpp**.  
